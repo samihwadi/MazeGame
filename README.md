@@ -1,6 +1,6 @@
 # Maze Game
 
-Welcome to the Maze Game, a thrilling adventure where you navigate through a maze, collect items, and aim to reach the exit. Get ready to test your skills using the arrow keys to move and the space key to jump.
+Welcome to the Maze Game, a thrilling adventure where you navigate through a maze, collect items, and aim to reach the exit.
 
 ## How to Play
 
